@@ -14,6 +14,9 @@ a pomodoro application with Command line interface
 Command: pomo-cli start --focus 25 --break 5 --cycles 4
 <img width="1128" height="124" alt="image" src="https://github.com/user-attachments/assets/b81eecb4-c69f-4423-af9e-2214642fee07" />
 
+## Break Time
+<img width="1097" height="174" alt="image" src="https://github.com/user-attachments/assets/e0bcb141-8fe5-490a-b1d7-7531ae064255" />
+
 
 
 
